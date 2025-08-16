@@ -154,11 +154,6 @@ Content-Type: application/json
 pytest tests/ -v
 ```
 
-## Docker Support
-
-```bash
-docker-compose up -d
-```
 
 ## Best Practices Implemented
 
